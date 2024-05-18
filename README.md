@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sakhawat Hossain
+### Hi 👋, I'm Sakhawat Hossain
 #### Competitive Programmer
 ![Competitive Programmer](https://github.com/Sakhawat-Hosain/Sakhawat-Hosain/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
