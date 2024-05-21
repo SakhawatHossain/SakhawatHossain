@@ -1,18 +1,15 @@
-![Competitive Programmer](https://github.com/Sakhawat-Hosain/Sakhawat-Hosain/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-
-<h1 align="center"> Hi 👋, I'm Sakhawat Hossain </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Sakhawat+Hossain;" />
+</h1>
 
 <h3 align="center"> CSE Student | Competitive Programmer </h3>
 
-<br/>
+<hr/>
 
 <div align="center">
- 
  💻 love to do problem-solving. </br>
  📝 love to learn new algorithms.
-
  </div>
-
 
 <div align="center"> 
   <a href="mailto:mdsakhawathossain17@gmail.com">
@@ -52,13 +49,4 @@
 <hr/>
 <br/>
 
-
-<h2 align="center">⚒️ Other profiles ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,mysql,php,github,git" />
-</div>
-
-<br/>
-<hr/>
 
