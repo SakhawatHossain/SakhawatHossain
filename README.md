@@ -1,25 +1,64 @@
-### Hi 👋, I'm Sakhawat Hossain
-#### Competitive Programmer
 ![Competitive Programmer](https://github.com/Sakhawat-Hosain/Sakhawat-Hosain/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-I love to do problem-solving.
+<h1 align="center"> Hi 👋, I'm Sakhawat Hossain </h1>
 
-Skills: C / C++ / JAVA / Python
+<h3 align="center"> CSE Student | Competitive Programmer </h3>
 
-- 📫 How to reach me: mdsakhawathossain17@gmail.com 
+<br/>
+
+<div align="center">
+ 
+ 💻 love to do problem-solving. </br>
+ 📝 love to learn new algorithms.
+
+ </div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sakhawat-Hosain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MD Sakhawat Hossain)  
+<div align="center"> 
+  <a href="mailto:mdsakhawathossain17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://www.facebook.com/mdsakhawat.hossain.12720/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakhawat-Hosain)](https://github.com/ryo-ma/github-profile-trophy)
+<h2 align="center">⚒️ Languages ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,mysql,php,github,git" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhawat-Hosain)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<hr/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakhawat-Hosain&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sakhawat-Hosain/contributions?format=svg&private=true)  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sakhawat-Hosain&count_private=true&theme=react&border_radius=10" alt="Sakhawat stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sakhawat-Hosain&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sakhawat-Hosain&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/Sakhawat-Hosain)  
+<br/><br/>
+<hr/>
+<br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sakhawat-Hosain)  
+
+<h2 align="center">⚒️ Other profiles ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,mysql,php,github,git" />
+</div>
+
+<br/>
+<hr/>
 
