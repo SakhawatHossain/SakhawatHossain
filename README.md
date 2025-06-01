@@ -18,9 +18,12 @@
   </a>
    <a href="https://www.facebook.com/mdsakhawat.hossain.12720/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+<a href="https://twitter.com/sakhawat_msh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://sakhawathossain.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 <hr/>
@@ -40,8 +43,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sakhawat-Hosain&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sakhawat-Hosain&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakhawatHossain&theme=radical&hide_border=false" height="200px" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SakhawatHossain&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="200px" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SakhawatHossain&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" height="200px" />
+   
 </div>
 <br/>
 <hr/>
