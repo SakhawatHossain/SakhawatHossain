@@ -16,7 +16,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="https://www.facebook.com/mdsakhawat.hossain.12720/" target="_blank">
+   <a href="https://www.facebook.com/sakhawat.msh/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
 <a href="https://twitter.com/sakhawat_msh" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
